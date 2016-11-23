@@ -24,7 +24,7 @@
     },
     "main": "./index.js",
     "devDependencies": {
-        "nodeunit": "0.8.0"
+        "nodeunit": "0.10.2"
     },
     "licenses": [
         {
